@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Giovanni Rossi",
+    "experience": 10,
+    "recipes": 23,
+    "likes": 132,
+    "image": "https://i.ibb.co/10q678x/chef-antonio-carluccio.webp"
+  },
+  {
+    "id": 2,
+    "name": "Maria Bianchi",
+    "experience": 8,
+    "recipes": 19,
+    "likes": 87,
+    "image": "https://i.ibb.co/5K1mMGw/chef-fabio-viviani.webp"
+  },
+  {
+    "id": 3,
+    "name": "Antonio Esposito",
+    "experience": 12,
+    "recipes": 27,
+    "likes": 165,
+    "image": "https://i.ibb.co/7txPcWt/chef-rocco-dispirito.webp"
+  },
+  {
+    "id": 4,
+    "name": "Luisa Rizzo",
+    "experience": 6,
+    "recipes": 14,
+    "likes": 52,
+    "image": "https://i.ibb.co/nBp9wrG/chef-tom-colicchio.webp"
+  },
+  {
+    "id": 5,
+    "name": "Marco Russo",
+    "experience": 9,
+    "recipes": 21,
+    "likes": 104,
+    "image": "https://i.ibb.co/51RfkDb/chef-gino-dacampo.webp"
+  },
+  {
+    "id": 6,
+    "name": "Giulia Ferrari",
+    "experience": 7,
+    "recipes": 17,
+    "likes": 73,
+    "image": "https://i.ibb.co/PtQqcfZ/chef-salvatore-cuomo.webp"
+  }
+]

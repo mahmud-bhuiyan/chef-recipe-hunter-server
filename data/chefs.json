@@ -10,8 +10,8 @@
     "recipes": [
       {
         "id": 1,
-        "name": "Spaghetti Carbonara",
-        "image": "https://i.ibb.co/GsPZjJ1/spaghetti-carbonara.jpg",
+        "recipe_name": "Spaghetti Carbonara",
+        "image": "https://i.ibb.co/9gTW7sr/pexels-sam-lion-5710178.jpg",
         "ingredients": [
           "spaghetti",
           "pancetta",
@@ -24,8 +24,8 @@
       },
       {
         "id": 2,
-        "name": "Fettuccine Alfredo",
-        "image": "https://i.ibb.co/0ZBV2zV/fettuccine-alfredo.jpg",
+        "recipe_name": "Fettuccine Alfredo",
+        "image": "https://i.ibb.co/7VhJ2HZ/pexels-engin-akyurt-1435898.jpg",
         "ingredients": [
           "fettuccine",
           "heavy cream",
@@ -38,8 +38,8 @@
       },
       {
         "id": 3,
-        "name": "Caprese Salad",
-        "image": "https://i.ibb.co/B3JbKhf/caprese-salad.jpg",
+        "recipe_name": "Caprese Salad",
+        "image": "https://i.ibb.co/1nm70TW/pexels-table-13241736.jpg",
         "ingredients": [
           "tomatoes",
           "fresh mozzarella cheese",
@@ -64,7 +64,7 @@
       {
         "id": 20,
         "recipe_name": "Pesto Pasta with Sun-Dried Tomatoes",
-        "image": "https://i.ibb.co/5YhMQfB/fabio-pesto-pasta.jpg",
+        "image": "https://i.ibb.co/6sBS2NG/pexels-angele-j-128408.jpg",
         "ingredients": [
           "1 pound fusilli pasta",
           "2 cups fresh basil leaves",

@@ -131,7 +131,7 @@
       {
         "id": 30,
         "recipe_name": "Cauliflower Pizza Crust",
-        "image": "https://i.ibb.co/tMsMcTf/rocco-pizza.jpg",
+        "image": "https://i.ibb.co/PZBjP39/pexels-vincent-rivaud-2147491.jpg",
         "ingredients": [
           "1 head cauliflower, chopped",
           "1 egg, beaten",
@@ -146,7 +146,7 @@
       {
         "id": 31,
         "recipe_name": "Grilled Ribeye Steak",
-        "image": "https://i.ibb.co/37mPcrY/rocco-steak.jpg",
+        "image": "https://i.ibb.co/8rtpCkw/pexels-pixabay-236887.jpg",
         "ingredients": [
           "1 ribeye steak",
           "Salt and pepper to taste",
@@ -161,7 +161,7 @@
       {
         "id": 32,
         "recipe_name": "Zucchini Fritters",
-        "image": "https://i.ibb.co/9Y1W1cx/rocco-fritters.jpg",
+        "image": "https://i.ibb.co/tQSJVSK/pexels-morena-vw-6911885.jpg",
         "ingredients": [
           "2 zucchinis, grated",
           "1/2 cup flour",
@@ -189,7 +189,7 @@
       {
         "id": 31,
         "recipe_name": "Roasted Chicken with Lemon and Garlic",
-        "image": "https://i.ibb.co/g4X1wdN/tom-roasted-chicken.jpg",
+        "image": "https://i.ibb.co/RQ0p7CX/pexels-tim-douglas-6210959.jpg",
         "ingredients": [
           "1 whole chicken",
           "2 lemons, sliced",
@@ -204,7 +204,7 @@
       {
         "id": 32,
         "recipe_name": "Seared Scallops with Cauliflower Puree",
-        "image": "https://i.ibb.co/1fYvLk6/tom-scallops.jpg",
+        "image": "https://i.ibb.co/vm22vW3/pexels-ruslan-khmelevsky-7655118.jpg",
         "ingredients": [
           "12 sea scallops",
           "1 head of cauliflower, chopped",
@@ -218,7 +218,7 @@
       {
         "id": 33,
         "recipe_name": "Grilled Ribeye Steak",
-        "image": "https://i.ibb.co/PzT9rcC/tom-ribeye.jpg",
+        "image": "https://i.ibb.co/VJKjYSn/pexels-geraud-pfeiffer-6542794.jpg",
         "ingredients": [
           "1 ribeye steak",
           "2 cloves of garlic, minced",
@@ -243,7 +243,7 @@
       {
         "id": 31,
         "recipe_name": "Spaghetti Carbonara",
-        "image": "https://i.ibb.co/LSBQzGh/gino-spaghetti-carbonara.jpg",
+        "image": "https://i.ibb.co/Hqmx5mh/pexels-polina-tankilevitch-4518843.jpg",
         "ingredients": [
           "14 oz spaghetti",
           "4 large egg yolks",
@@ -258,7 +258,7 @@
       {
         "id": 32,
         "recipe_name": "Chicken Parmigiana",
-        "image": "https://i.ibb.co/FYdfjCZ/gino-chicken-parmigiana.jpg",
+        "image": "https://i.ibb.co/h8HK88j/pexels-nadin-sh-14846852.jpg",
         "ingredients": [
           "4 chicken breasts",
           "1 cup all-purpose flour",
@@ -276,7 +276,7 @@
       {
         "id": 33,
         "recipe_name": "Minestrone Soup",
-        "image": "https://i.ibb.co/ZV4qSFr/gino-minestrone-soup.jpg",
+        "image": "https://i.ibb.co/DK5wDL5/pexels-nadin-sh-14822890.jpg",
         "ingredients": [
           "1 onion, chopped",
           "2 carrots, chopped",
@@ -309,7 +309,7 @@
       {
         "id": 34,
         "recipe_name": "Margherita Pizza",
-        "image": "https://i.ibb.co/0jjNtM7/cuomo-margherita-pizza.jpg",
+        "image": "https://i.ibb.co/WzFB6Bg/pexels-kampus-production-6605214.jpg",
         "ingredients": [
           "Pizza dough",
           "1/2 cup tomato sauce",
@@ -324,7 +324,7 @@
       {
         "id": 35,
         "recipe_name": "Pasta alla Norma",
-        "image": "https://i.ibb.co/L5SBbVK/cuomo-pasta-alla-norma.jpg",
+        "image": "https://i.ibb.co/Rp41B4p/pexels-marilena-baltzaki-15082407.jpg",
         "ingredients": [
           "1 lb spaghetti",
           "1 eggplant, cubed",
@@ -341,7 +341,7 @@
       {
         "id": 36,
         "recipe_name": "Bistecca alla Fiorentina",
-        "image": "https://i.ibb.co/QkHQg6y/cuomo-bistecca-alla-fiorentina.jpg",
+        "image": "https://i.ibb.co/VJQSSZ2/pexels-malidate-van-769289.jpg",
         "ingredients": [
           "2 large T-bone steaks, about 1 1/2 inches thick",
           "2 cloves garlic, minced",
